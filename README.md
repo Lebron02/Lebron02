@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Szymon
 
-### Full-Stack Web Developer | React, Node.js & Modern Architectures
+### Full-Stack Web Developer | CS Master's Student | Javascript, React.js, Node.js & Modern Architectures
 
-Freshly graduated CS Engineer (B.Eng.) specializing in Software Engineering. I enjoy building scalable, user-centric web applications, decoupling frontends from backends (Headless approach), and exploring how **AI** can be integrated to create smarter business solutions. Alongside my academic journey, I work as a **Freelance Web Developer**, delivering end-to-end digital solutions for real-world clients.
+CS Engineer (B.Eng.) and current **Master's student in Computer Science**, specializing in Software Engineering. I enjoy building scalable, user-centric web applications, decoupling frontends from backends (Headless approach), and exploring how **AI** can be integrated to create smarter business solutions. Alongside my academic journey, I work as a **Freelance Web Developer**, delivering end-to-end digital solutions for real-world clients.
 
 ### 💡 Highlights:
 * **🎓 Thesis:** Architected a **Headless E-commerce Platform** (MERN stack) featuring secure session-based auth (RBAC), **Stripe API** for seamless payments, and **Google Gemini AI** for intelligent, context-aware product cross-selling.
